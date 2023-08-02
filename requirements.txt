@@ -1,7 +1,7 @@
 asn1crypto==0.24.0
 asttokens==1.1.13
 certifi==2023.7.22
-cryptography==41.0.2
+cryptography==41.0.3
 docutils==0.14
 Flask==2.2.5
 itsdangerous==2.0.0
